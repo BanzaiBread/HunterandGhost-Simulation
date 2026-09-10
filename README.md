@@ -10,9 +10,10 @@ then it runs a simulation of the hunters trying to chase evidence of the ghost a
 there are three pieces of evidence the hunters must find to catch the ghost,
 
 
-## Simulation ends:
+## Simulation ends
+
 1. When the hunters gets maxes out their bored attribute (an attribute which increases 
-   when the ghost is not in their current room) and the hunters exit the house
+when the ghost is not in their current room) and the hunters exit the house
 
 2.The ghost is found 
 
